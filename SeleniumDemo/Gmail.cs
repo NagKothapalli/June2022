@@ -23,7 +23,7 @@ namespace SeleniumDemo
             ForwardAnEmail();
             DeleteAnEmail();
         }
-        //**********************Test Cases*************************************
+        //**********************Test Cases*******************************************
         [TestInitialize]
         public void Intilization()
         {
